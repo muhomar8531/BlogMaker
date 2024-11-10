@@ -1,0 +1,10 @@
+.bml
+__pycache__/
+
+.DS_Store
+
+staticfiles/
+
+simple_deploy_logs/
+
+db.sqlite3
